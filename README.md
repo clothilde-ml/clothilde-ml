@@ -1,4 +1,4 @@
-# Hi there, I'm Clothilde 👋
+# Hi, I'm Clothilde 👋
 
 I'm an computer science student at **UTC (Université de Technologie de Compiègne)**, studying **AI, Applied Mathematics**, and **Philosophy of Technology**. I love to invest all my curiosity in the questions that sit at the edges of these fields - grounding ideas in their mathematical structure before implementing them, and designing systems that are genuinely thoughtful about their place in the world: cognitively, socially, and environmentally.
 
