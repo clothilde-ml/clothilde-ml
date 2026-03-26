@@ -8,7 +8,7 @@ If something here sparks a thought, I'd genuinely love to hear from you - whethe
 
 ---
 
-**Currently exploring** : natural language processing - automated logical reasoning - multi-agent systems
+***Currently exploring** : natural language processing - automated logical reasoning - multi-agent systems*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-clothilde--ml-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clothilde-marko-lafon-2764841a4/)
-[![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:clothilde.marko-lafon@ent.utc.fr")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-clothilde--ml-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clothilde-marko-lafon-2764841a4/)
+[![Email](https://img.shields.io/badge/Email-Contact-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:clothilde.marko-lafon@ent.utc.fr)
